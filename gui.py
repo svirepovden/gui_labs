@@ -11,7 +11,7 @@ def gui():
     """
     window = tk.Tk()
     window.title("Лабораторная работа №5")
-    window.geometry("400x300")
+    window.geometry("800x400")
 
     figure_val = tk.StringVar()
 
